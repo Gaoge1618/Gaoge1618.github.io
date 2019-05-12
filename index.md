@@ -1,16 +1,46 @@
-## 个人简历
+# 高 歌
 
-### 联系方式
--电话：186 2133 0180  
--邮箱：gaogelaw@163.com
+## **联系方式**
 
-### 个人信息
+- **电话:186 2133 0180**
+- **邮箱：gaogelaw@163.com**
 
+## **教育背景**
 
-### Jekyll Themes
+上海对外经贸大学            国际经济法(研究生)           2017.10-2020.03
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gaoge1618/Gaoge1618.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+华东政法大学                   经济法(本科)                      2012.09-2106.06  
 
-### Support or Contact
+## **工作经历**
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+上海智坚律师事务所                         实习生      2018.10-2019.01/2017.05-2017.10
+
+1. 在律师的指导下，撰写法律文书、整理案件材料，旁听案件庭审。
+2. 协助律师整理各类指导案例文本。  
+
+北京德和衡(上海)律师事务所             实习生     2018.06-2018.09
+
+1. 协助律师处理诉讼业务及P2P等其他非诉业务。
+2. 合同文本审查、整理案件证据材料、与客户沟通。
+
+安徽省太和县人民法院民事审判庭    实习生      2013.07-2013.08
+
+1. 承担校验庭审笔录和判决书的工作，并处理民事庭有关日常事务
+2. 整理卷宗材料，研究法律文书，接触到大量民事案件。
+
+## **获奖经历**  
+
+1. 研究生三等奖学金
+2. 第六届"华政杯"模拟法庭    最佳表现奖
+
+## **技能证书**
+
+**专业技能：**通过国家司法考试
+
+**语言技能：**大学英语六级
+
+**办公技能：**熟练使用Office办公软件
+
+## **业余爱好**
+
+坚持阅读，擅长篮球、乒乓球、健身等体育运动。
